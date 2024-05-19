@@ -1,28 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1881059/159564299-70d98608-6526-4437-ab51-6dc719d541e2.jpg">
 </p>
 
-<h1 align="center">React Native Template / Boilerplate</h1>
-<h3 align="center">Bleeding 🔪 Edge 🌉 Night<s>ly</s>mare 🌃 Edition</h3>
-<h6 align="center">““”̿ ̿ ̿ ̿ ̿’̿’̵͇̿̿з=(*▽*)=ε/̵͇̿̿/̿ ̿ ̿ ̿ ̿’““</h6>
-<h6 align="center">IDKFA</h6>
-
 <div align="center">
-
-[![NPM RN pkg ver](https://img.shields.io/badge/React%20Native-0.71.12-red.svg)](https://github.com/facebook/react-native/releases)
-[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](#)
-[![Linter](https://badges.aleen42.com/src/eslint.svg)](#)
-[![Formatter: prettier](https://img.shields.io/badge/Formatter-Prettier-f8bc45.svg)](#)
-[![CI](https://github.com/leotm/react-native-template-new-architecture/actions/workflows/main.yml/badge.svg)](https://github.com/leotm/react-native-template-new-architecture/actions/workflows/main.yml)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/leotm/react-native-template-new-architecture/pulse)
-[![Docs](https://img.shields.io/badge/Docs%3F-yes-green.svg)](https://github.com/leotm/react-native-template-new-architecture/wiki)
-[![Project](https://img.shields.io/badge/Proj%3F-yes-green.svg)](https://github.com/leotm/react-native-template-new-architecture/projects/1)
-
 </div>
-
-Android | iOS
---- | ---
-![Android](https://user-images.githubusercontent.com/1881059/206861792-710af106-3070-40eb-9717-e32941d43327.png) | ![iOS](https://user-images.githubusercontent.com/1881059/206861794-17250417-623e-4f78-92a8-bcfc0cf344e6.png)
 
 ## Setup
 
